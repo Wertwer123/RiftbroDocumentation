@@ -49,11 +49,3 @@ Riftbro is built for cross-platform accessibility, ensuring you have your decks 
 * **Mobile (iOS/Android)**
 
 ---
-
-## 📸 Screenshots
-
-*(Currently in Prototype Phase - UI Subject to Change)*
-
-| **Deck Builder View** | **Stats Dashboard** |
-|:---:|:---:|
-| ![Deck Builder Placeholder](https://via.placeholder.com/400x200?text=Upload+Your+Deck+Builder+Screenshot+Here) | ![Stats Placeholder](
