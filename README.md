@@ -9,8 +9,6 @@
 
 **Manage your collection. Build wild decks. Dominate the Rift.**
 
-[Features](#key-features) • [Roadmap](#roadmap)
-
 </div>
 
 ---
