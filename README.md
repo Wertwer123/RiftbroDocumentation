@@ -9,7 +9,7 @@
 
 **Manage your collection. Build wild decks. Dominate the Rift.**
 
-[View Demo / Screenshots](#screenshots) • [Features](#key-features) • [Roadmap](#roadmap)
+[[Features](#key-features) • [Roadmap](#roadmap)
 
 </div>
 
