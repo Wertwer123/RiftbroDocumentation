@@ -17,7 +17,7 @@
 
 ## 📖 About The Project
 
-**Riftbro** is an application aimed at making the process of managing your cards and decks for *Riftbound* a breeze. We want to enhance the beauty and fun of creating wild decks without the headache of manual tracking.
+**Riftbro** is an application aimed at making the process of managing your cards and decks for *Riftbound* a breeze. I want to enhance the beauty and fun of creating wild decks without the headache of manual tracking.
 
 Gone are the days of arguing over rule specifics or wondering how many matches you've actually won. Riftbro puts the rulebook and your stats right in your pocket.
 
