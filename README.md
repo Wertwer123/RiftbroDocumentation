@@ -28,7 +28,7 @@ Gone are the days of arguing over rule specifics or wondering how many matches y
 ## ✨ Key Features (Version 1.0)
 
 ### 🔌 Official Data Integration
-* **Powered by Riftbound API:** I am leveraging the official **Riftbound API** to dynamically fetch high-fidelity card assets, rule text, and meta updates directly from the developers. This ensures the database is always synchronized with the live game.
+* **Powered by Riftbound API:** I intend to integrate the official **Riftbound API** to dynamically fetch high-fidelity card assets, rule text, and meta updates directly from the developers. This will ensure the database is always synchronized with the live game.
 
 ### 🃏 Deck Building & Collection
 * **Wild Deck Creation:** A fluid interface to craft the craziest decks imaginable using real-time data.
@@ -39,7 +39,7 @@ Gone are the days of arguing over rule specifics or wondering how many matches y
 * **Deck Analysis:** Get detailed statistics on your custom builds to optimize your strategy.
 
 ### 📚 The Compendium
-* **Pocket Rulebook:** A complete, searchable database of effects and descriptions fetched directly via the API.
+* **Pocket Rulebook:** A complete, searchable database of effects and descriptions.
 * **Conflict Solver:** Detailed descriptions to settle those "confusion" moments during matches with friends.
 
 ---
