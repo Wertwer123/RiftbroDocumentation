@@ -3,9 +3,9 @@
 # ⚔️ Riftbro
 ### The Ultimate Companion for Riftbound
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mobile-blue?style=for-the-badge&logo=windows)](https://github.com/Chef1Ramsay/riftbro)
-[![Status](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge)](https://github.com/Chef1Ramsay/riftbro)
-[![Made with Love](https://img.shields.io/badge/Made%20in-Vienna-red?style=for-the-badge)](https://github.com/Chef1Ramsay/riftbro)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mobile-blue?style=for-the-badge&logo=windows)]
+[![Status](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge)]
+[![Made with Love](https://img.shields.io/badge/Made%20in-Vienna-red?style=for-the-badge)]
 
 **Manage your collection. Build wild decks. Dominate the Rift.**
 
